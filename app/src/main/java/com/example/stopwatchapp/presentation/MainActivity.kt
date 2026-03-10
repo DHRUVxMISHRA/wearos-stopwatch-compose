@@ -177,7 +177,7 @@
                     onClick = onReset,
                     enabled = state != TimerState.RESET,
                     colors = ButtonDefaults.buttonColors(
-                        containerColor = MaterialTheme.colorScheme.background
+                        containerColor = Color.Red
 
                     )
                 ) {
